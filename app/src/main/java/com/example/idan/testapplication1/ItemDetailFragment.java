@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+// CHANGE 1
 
 import com.example.idan.testapplication1.dummy.DummyContent;
 

@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 // CHANGE 1
 
+// CHANGE 3
+
 import com.example.idan.testapplication1.dummy.DummyContent;
 
 /**
